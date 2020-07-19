@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="register" xml:id="G000375">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Körperschaftsregister2</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist. 0000000</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+<body>
+<listOrg>
+<org xml:id="ed_qch_xc2_rlb">
+<orgName type="reg">Accademia Nazionale dei Lincei (Roma)</orgName>
+</org>
+<org xml:id="ed_xfh_yvn_5lb">
+<orgName type="reg">Accademia nazionale di San Luca (Roma)</orgName>
+</org>
+<org xml:id="ed_mg4_mp5_5lb">
+<orgName type="reg">Acta Sanctorum</orgName>
+</org>
+<org xml:id="ed_apy_gzw_gmb">
+<orgName type="reg">Atti e memorie della Regia Deputazione di storia patria per le provincie di Romagna</orgName>
+</org>
+<org xml:id="ed_mj1_g1x_gmb">
+<orgName type="reg">Schwäbischer Merkur</orgName>
+</org>
+<org xml:id="ed_yj4_n5k_hmb">
+<orgName type="reg">Duncker und Humblot (Leipzig)</orgName>
+</org>
+<org xml:id="ed_ftf_jwg_zkb">
+<orgName type="reg">Albergo della Vittoria (Caserta)</orgName>
+</org>
+<org xml:id="ed_ekf_gwc_rlb">
+<orgName type="reg">Albergo del Rebecchino (Milano)</orgName>
+</org>
+<org xml:id="G000489">
+<orgName type="reg">Albergo del Sole (Roma)</orgName>
+</org>
+<org xml:id="G000462">
+<idno type="uri">http://d-nb.info/gnd/4141947-9</idno>
+<orgName type="reg">Allgemeine Zeitung </orgName>
+</org>
+<org xml:id="G000467">
+<orgName type="reg">Archivio della Società romana di storia patria</orgName>
+</org>
+<org xml:id="G000563">
+<orgName type="reg">Archivio di Stato di Firenze</orgName>
+</org>
+<org xml:id="ed_xry_myl_rlb">
+<orgName type="reg">Archivio di Stato di Mantova</orgName>
+</org>
+<org xml:id="G067882">
+<orgName type="reg">Archivio di Stato di Milano</orgName>
+</org>
+<org xml:id="G067840">
+<orgName type="reg">Archivio di Stato di Modena</orgName>
+</org>
+<org xml:id="G000565">
+<orgName type="reg">Archivio di Stato di Napoli</orgName>
+</org>
+<org xml:id="ed_xmf_1hh_zkb">
+<orgName type="reg">Archivio di Stato di Roma</orgName>
+</org>
+<org xml:id="G000566">
+<orgName type="reg">Archivio di Stato di Siena</orgName>
+</org>
+<org xml:id="G000564">
+<orgName type="reg">Archivio di Stato di Venezia</orgName>
+</org>
+<org xml:id="G004664">
+<orgName type="reg">Archivio Estense (Modena)</orgName>
+</org>
+<org xml:id="G000487">
+<orgName type="reg">Archivio Gonzaga di Mantova</orgName>
+</org>
+<org xml:id="G000457">
+<orgName type="reg">Archivio notarile di Bologna</orgName>
+</org>
+<org xml:id="ed_a5v_yxy_1lb">
+<orgName type="reg">Archivio segreto del Comune di Orvieto</orgName>
+</org>
+<org xml:id="G067841">
+<orgName type="reg">Archivio Segreto Vaticano</orgName>
+</org>
+<org xml:id="G000468">
+<orgName type="reg">Archivio storico artistico archeologico e letterario della città e provincia di Roma</orgName>
+</org>
+<org xml:id="G000560">
+<orgName type="reg">Archivio Storico Capitolino </orgName>
+</org>
+<org xml:id="G000465">
+<orgName type="reg">Archivio storico del Comune di Bologna</orgName>
+</org>
+<org xml:id="G004667">
+<orgName type="reg">Archivio Storico Italiano</orgName>
+</org>
+<org xml:id="ed_zj1_fhh_zkb">
+<orgName type="reg">Archivio storico municipale di Orvieto</orgName>
+</org>
+<org xml:id="ed_pgr_brr_2mb">
+<orgName type="reg">Ateneo Scienze Lettere ed Arti di Bergamo</orgName>
+</org>
+<org xml:id="ed_ybd_wrt_5lb">
+<orgName type="reg">Athenische Mitteilungen. Abteilung des Deutschen Archäologischen Instituts</orgName>
+</org>
+<org xml:id="ed_pjq_mvc_rlb">
+<orgName type="reg">Atti della Reale Accademia dei Lincei</orgName>
+</org>
+<org xml:id="G000464">
+<orgName type="reg">Augustiner</orgName>
+</org>
+<org xml:id="G000542">
+<orgName type="reg">Bankhaus Schmitt, Nast und Co.</orgName>
+</org>
+<org xml:id="G067843">
+<orgName type="reg">Bank- und Wechselgeschäft Oberndörffer</orgName>
+</org>
+<org xml:id="G000494">
+<orgName type="reg">Bayerische Akademie der Wissenschaften (München)</orgName>
+</org>
+<org xml:id="G000470">
+<orgName type="reg">Benediktiner</orgName>
+</org>
+<org xml:id="G067528">
+<orgName type="reg">Biblioteca Ambrosiana (Milano)</orgName>
+</org>
+<org xml:id="G000508">
+<orgName type="reg">Biblioteca Angelica (Roma)</orgName>
+</org>
+<org xml:id="G000506">
+<orgName type="reg">Biblioteca Apostolica Vaticana</orgName>
+</org>
+<org xml:id="ed_bz4_25g_zkb">
+<orgName type="reg">Biblioteca Capitolare di Verona</orgName>
+</org>
+<org xml:id="G000493">
+<orgName type="reg">Biblioteca Chigiana (Roma) </orgName>
+</org>
+<org xml:id="G067845">
+<orgName type="reg">Biblioteca comunale Ariostea (Ferrara)</orgName>
+</org>
+<org xml:id="ed_vs1_nh3_zkb">
+<orgName type="reg">Biblioteca comunale dell’Archiginnasio (Bologna)</orgName>
+</org>
+<org xml:id="ed_esn_yld_rlb">
+<orgName type="reg">Biblioteca del Comune di Roma</orgName>
+</org>
+<org xml:id="G000557">
+<orgName type="reg">Biblioteca dell'Abbazia di Montecassino</orgName>
+</org>
+<org xml:id="G004653">
+<orgName type="reg">Biblioteca Magliabechiana (Firenze)</orgName>
+</org>
+<org xml:id="G000511">
+<orgName type="reg">Biblioteca Medicea Laurenziana (Firenze)</orgName>
+</org>
+<org xml:id="ed_kch_qwc_rlb">
+<orgName type="reg">Biblioteca Nazionale Braidense (Milano)</orgName>
+</org>
+<org xml:id="G000562">
+<orgName type="reg">Biblioteca Nazionale Marciana (Venezia)</orgName>
+</org>
+<org xml:id="G000492">
+<orgName type="reg">Biblioteca nazionale Vittorio Emanuele III di Napoli</orgName>
+</org>
+<org xml:id="G004666">
+<orgName type="reg">Biblioteca Oliveriana (Pesaro)</orgName>
+</org>
+<org xml:id="ed_utr_jng_zkb">
+<orgName type="reg">Biblioteca Queriniana (Brescia)</orgName>
+</org>
+<org xml:id="G067521">
+<orgName type="reg">Biblioteca Riccardiana (Firenze)</orgName>
+</org>
+<org xml:id="G000460">
+<orgName type="reg">Bibliothek der Deutschen in Rom (Palazzo Caffarelli)</orgName>
+</org>
+<org xml:id="G000469">
+<idno type="uri">http://d-nb.info/gnd/4145798-5</idno>
+<orgName type="reg">Blätter für literarische Unterhaltung </orgName>
+</org>
+<org xml:id="G000473">
+<idno type="uri">http://d-nb.info/gnd/64766-4 </idno>
+<orgName type="reg">Breitkopf und Härtel</orgName>
+</org>
+<org xml:id="G000461">
+<idno type="uri">http://d-nb.info/gnd/1072970643 </idno>
+<orgName type="reg">Buchhandlung Alberto Detken </orgName>
+<desc>1836-1862 (danach Detken &amp; Rocholl)</desc>
+</org>
+<org xml:id="G000474">
+<orgName type="reg">Buchhandlung Albert Wilhelm Kafemann </orgName>
+</org>
+<org xml:id="G067779">
+<orgName type="reg">Buchhandlung Cotta (München)</orgName>
+</org>
+<org xml:id="G067520">
+<orgName type="reg">Buchhandlung Gräfe und Unzer (Königsberg)</orgName>
+</org>
+<org xml:id="G004655">
+<orgName type="reg">Caffè della Minerva (Firenze)</orgName>
+</org>
+<org xml:id="G004654">
+<orgName type="reg">Caffè Galileo (Firenze)</orgName>
+</org>
+<org xml:id="G004657">
+<orgName type="reg">Caffè Landini (Firenze)</orgName>
+</org>
+<org xml:id="ed_arl_ywm_plb">
+<orgName type="reg">Calendario Romano</orgName>
+<desc>Von Biagio Miraglia herausgegebene Zeitschrift</desc>
+</org>
+<org xml:id="G067519">
+<orgName type="reg">Camera apostolica</orgName>
+</org>
+<org xml:id="ed_rwv_rtl_rlb">
+<orgName type="reg">Capitale</orgName>
+<desc>Zeitschrift</desc>
+</org>
+<org xml:id="ed_vjq_cp4_plb">
+<orgName type="reg">Casa editrice Manini (Milano)</orgName>
+</org>
+<org xml:id="ed_tpk_pxd_rlb">
+<orgName type="reg">Civiltà Cattolica</orgName>
+<desc>Zeitschrift</desc>
+</org>
+<org xml:id="ed_y3t_2sn_5lb">
+<orgName type="reg">Classe di scienze morali, storiche e filologiche della Reale Accademia delle scienze di Torino</orgName>
+</org>
+<org xml:id="G004669">
+<orgName type="reg">Collège de France (Paris)</orgName>
+</org>
+<org xml:id="G000458">
+<orgName type="reg">Collegio di Spagna (Bologna)</orgName>
+</org>
+<org xml:id="G000476">
+<orgName type="reg">Comitato pel monumento a Fra Paolo Sarpi a Venezia</orgName>
+</org>
+<org xml:id="G000477">
+<orgName type="reg">Comitato per la costruzione del monumento a Giordano Bruno a Roma</orgName>
+</org>
+<org xml:id="G004662">
+<orgName type="reg">Commissione archeologica comunale di Roma</orgName>
+</org>
+<org xml:id="ed_otr_pyc_fmb">
+<orgName type="reg">Commissione Archeologica Comunale di Roma</orgName>
+</org>
+<org xml:id="G067500">
+<orgName type="reg">Commissione conservatrice dei monumenti storici e di belle arti di terra d'Otranto</orgName>
+</org>
+<org xml:id="ed_jgf_fdh_zkb">
+<orgName type="reg">Commissione storico-archeologica di Lecce</orgName>
+</org>
+<org xml:id="ed_z5f_bzy_1lb">
+<orgName type="reg">Consiglio comunale di Andria</orgName>
+</org>
+<org xml:id="G000490">
+<orgName type="reg">Convento Montesanto di Todi</orgName>
+</org>
+<org xml:id="G000478">
+<idno type="uri">http://d-nb.info/gnd/4645433-0</idno>
+<orgName type="reg">Corps Masovia Königsberg (Potsdam)</orgName>
+</org>
+<org xml:id="G004668">
+<orgName type="reg">Das Ausland. Eine Wochenschrift für Kunde des geistigen und sittlichen Lebens der Völker</orgName>
+</org>
+<org xml:id="G067531">
+<orgName type="reg">Dataria apostolica</orgName>
+</org>
+<org xml:id="G004665">
+<orgName type="reg">Deputazione di Storia Patria per le Province di Romagna</orgName>
+</org>
+<org xml:id="G000545">
+<orgName type="reg">Deutsche Buchhandlung Josef Spithöver (Rom)</orgName>
+</org>
+<org xml:id="ed_rvn_trt_5lb">
+<orgName type="reg">Deutsches Archäologisches Institut in Athen</orgName>
+</org>
+<org xml:id="G067532">
+<orgName type="reg">Deutsches Archäologisches Institut in Rom</orgName>
+</org>
+<org xml:id="G067778">
+<orgName type="reg">Deutsche Schillerstiftung in Weimar</orgName>
+</org>
+<org xml:id="G000514">
+<orgName type="reg">Deutsches Kunstblatt</orgName>
+</org>
+<org xml:id="G000546">
+<orgName type="reg">Deutsches Museum. Zeitschrift für Literatur, Kunst und öffentliches Leben</orgName>
+</org>
+<org xml:id="ed_wbl_w1w_slb">
+<orgName type="reg">Deutsche Zeitung (Wien)</orgName>
+</org>
+<org xml:id="ed_qgh_zvt_5lb">
+<orgName type="reg">Die Grenzboten. Zeitschrift für Politik, Literatur und Kunst</orgName>
+</org>
+<org xml:id="G000463">
+<orgName type="reg">Dominikaner</orgName>
+</org>
+<org xml:id="G000480">
+<idno type="uri">http://d-nb.info/gnd/65191-6</idno>
+<orgName type="reg">F. A. Brockhaus Verlag</orgName>
+</org>
+<org xml:id="G000481">
+<idno type="uri">http://d-nb.info/gnd/10150544-9 </idno>
+<orgName type="reg">Fratelli Bocca</orgName>
+<desc>Verlag in Rom, Turin, Florenz</desc>
+</org>
+<org xml:id="ed_zgk_sgn_plb">
+<idno type="uri">http://d-nb.info/gnd/1073072037</idno>
+<orgName type="reg">Fratelli Treves (Milano)</orgName>
+</org>
+<org xml:id="G000561">
+<orgName type="reg">Frati Gaudenti (Bologna)</orgName>
+</org>
+<org xml:id="G000509">
+<orgName type="reg">Galleria degli Uffizi (Firenze)</orgName>
+</org>
+<org xml:id="G000501">
+<orgName type="reg">Gaststätte Böttchershöfchen (Königsberg)</orgName>
+</org>
+<org xml:id="G067525">
+<orgName type="reg">Gast- und Kurhaus "Zum Freihof" (Heiden)</orgName>
+</org>
+<org xml:id="G000482">
+<orgName type="reg">Gazzetta Ufficiale del Regno d'Italia</orgName>
+</org>
+<org xml:id="G000483">
+<orgName type="reg">Gazzetta universale</orgName>
+</org>
+<org xml:id="G067842">
+<orgName type="reg">Georg-August-Universität Göttingen</orgName>
+</org>
+<org xml:id="G067530">
+<orgName type="reg">Glyptothek München</orgName>
+</org>
+<org xml:id="G000454">
+<orgName type="reg">Großherzoglich und Herzoglich Sächsische Gesamtuniversität Jena</orgName>
+</org>
+<org xml:id="G000517">
+<idno type="uri">http://d-nb.info/gnd/1072996987 </idno>
+<orgName type="reg">H. F. e M. Münster</orgName>
+</org>
+<org xml:id="ed_zds_w14_5lb">
+<orgName type="reg">Historische Klasse der Bayerischen Akademie der Wissenschaften (München)</orgName>
+</org>
+<org xml:id="G000466">
+<orgName type="reg">Historische Kommission der Bayerischen Akademie der Wissenschaften (München)</orgName>
+</org>
+<org xml:id="G000491">
+<orgName type="reg">Historisches Taschenbuch</orgName>
+</org>
+<org xml:id="G004652">
+<orgName type="reg">Historische Zeitschrift</orgName>
+</org>
+<org xml:id="G000510">
+<orgName type="reg">Hof- und Staatsbibliothek München</orgName>
+</org>
+<org xml:id="ed_e4q_hcy_1lb">
+<orgName type="reg">Hotel Augsburger Hof (München)</orgName>
+</org>
+<org xml:id="G000502">
+<orgName type="reg">Hotel Cesari (Roma)</orgName>
+</org>
+<org xml:id="ed_mtt_pjc_hlb">
+<orgName type="reg">Hôtel de Rome (Sorrento)</orgName>
+</org>
+<org xml:id="ed_elf_svg_zkb">
+<orgName type="reg">Hotel Ginevra di Napoli</orgName>
+</org>
+<org xml:id="ed_hvf_3ny_1lb">
+<orgName type="reg">Hotel Marienbad (München)</orgName>
+</org>
+<org xml:id="ed_qxd_z3x_qlb">
+<orgName type="reg">Hotel Molaro (Roma)</orgName>
+</org>
+<org xml:id="G000500">
+<orgName type="reg">Hotel Washington (Napoli)</orgName>
+</org>
+<org xml:id="ed_e2x_vb4_5lb">
+<orgName type="reg">Humboldt-Universität Berlin</orgName>
+</org>
+<org xml:id="G000543">
+<orgName type="reg">Il Cimento. Rivista di scienze, lettere ed arti</orgName>
+</org>
+<org xml:id="G000518">
+<orgName type="reg">Il Diritto. Giornale della Democrazia Italiana</orgName>
+</org>
+<org xml:id="G000519">
+<orgName type="reg">Il Fanfulla</orgName>
+<desc>Florenz (1870-1871), Rom (1871-1899)</desc>
+</org>
+<org xml:id="ed_cpf_lmw_2mb">
+<orgName type="reg">Il Popolo Romano</orgName>
+</org>
+<org xml:id="G000520">
+<orgName type="reg">Il Tempo. Giornale Politico-Commerciale della Venezia </orgName>
+</org>
+<org xml:id="G000521">
+<idno type="uri">http://d-nb.info/gnd/4747493-2</idno>
+<orgName type="reg">Im neuen Reich</orgName>
+</org>
+<org xml:id="G000522">
+<orgName type="reg">Index-Congregation</orgName>
+</org>
+<org xml:id="ed_mbq_yp5_5lb">
+<orgName type="reg">Isländersagas</orgName>
+</org>
+<org xml:id="G000503">
+<orgName type="reg">Italienisches Bildungsministerium</orgName>
+</org>
+<org xml:id="G000523">
+<idno type="uri">http://d-nb.info/gnd/5056474-2</idno>
+<orgName type="reg">J. G. Cotta’sche Buchhandlung</orgName>
+</org>
+<org xml:id="ed_kx2_pch_zkb">
+<orgName type="reg">Jahresberichte über die Fortschritte der klassischen Alterthumswissenschaft</orgName>
+</org>
+<org xml:id="G000547">
+<orgName type="reg">John Murray</orgName>
+</org>
+<org xml:id="G067518">
+<orgName type="reg">Journal des débats politiques et litteraires</orgName>
+</org>
+<org xml:id="G000515">
+<orgName type="reg">Kaiserliche Hofbibliothek Wien</orgName>
+</org>
+<org xml:id="ed_sst_4st_5lb">
+<orgName type="reg">Klio</orgName>
+</org>
+<org xml:id="G000524">
+<orgName type="reg">Kölnische Zeitung</orgName>
+</org>
+<org xml:id="G067524">
+<orgName type="reg">Königliche Bibliothek Berlin</orgName>
+</org>
+<org xml:id="G067814">
+<orgName type="reg">Königliche Öffentliche Bibliothek Stuttgart</orgName>
+</org>
+<org xml:id="ed_zxs_nxl_rlb">
+<orgName type="reg">Königliches Hof- und Nationaltheater München</orgName>
+</org>
+<org xml:id="G000525">
+<orgName type="reg">Königsberger Hartungsche Zeitung</orgName>
+</org>
+<org xml:id="G000479">
+<orgName type="reg">L'Eco delle Alpi Cozie</orgName>
+</org>
+<org xml:id="G000526">
+<orgName type="reg">La Libertà. Gazzetta del Popolo Giornale Politico Quotidiano </orgName>
+</org>
+<org xml:id="G000527">
+<orgName type="reg">La Perseveranza (Milano)</orgName>
+<desc>Tageszeitung von 1859-1922</desc>
+</org>
+<org xml:id="G000528">
+<idno type="uri">http://d-nb.info/gnd/4269833-9</idno>
+<orgName type="reg">Le Monnier (Firenze)</orgName>
+<desc>Verlag</desc>
+</org>
+<org xml:id="G067523">
+<orgName type="reg">Libreria Pietro Merle (Roma)</orgName>
+</org>
+<org xml:id="G000529">
+<orgName type="reg">Liceo Reale di S. Caterina a Venezia</orgName>
+</org>
+<org xml:id="G000472">
+<orgName type="reg">Literarisch-artistische Anstalt der J. G. Cotta'schen Buchhandlung</orgName>
+</org>
+<org xml:id="G000530">
+<idno type="uri">http://d-nb.info/gnd/4313529-8</idno>
+<orgName type="reg">Literarisches Centralblatt für Deutschland</orgName>
+</org>
+<org xml:id="G000531">
+<orgName type="reg">Loescher &amp; Co. (Roma)</orgName>
+<desc>Verlag und Buchhandlung</desc>
+</org>
+<org xml:id="G067824">
+<orgName type="reg">Ludwig-Maximilians-Universität München</orgName>
+</org>
+<org xml:id="G000556">
+<orgName type="reg">L’Avenir (Paris)</orgName>
+<desc>Katholische Tageszeitung von 1830-1831</desc>
+</org>
+<org xml:id="G000532">
+<orgName type="reg">Magdeburger Zeitung</orgName>
+</org>
+<org xml:id="ed_tf3_mwc_rlb">
+<orgName type="reg">Mailänder Dom</orgName>
+</org>
+<org xml:id="G067522">
+<orgName type="reg">Monumenta Germaniae Historica</orgName>
+</org>
+<org xml:id="G000533">
+<idno type="uri">http://d-nb.info/gnd/4345483-5</idno>
+<orgName type="reg">Morgenblatt für gebildete Leser</orgName>
+</org>
+<org xml:id="ed_dbj_kf3_zkb">
+<orgName type="reg">Münzkabinett im Bode-Museum (Berlin)</orgName>
+</org>
+<org xml:id="ed_kwh_5lr_rlb">
+<orgName type="reg">Musei civici agli Eremitani (Padova)</orgName>
+</org>
+<org xml:id="ed_hcg_cyh_zkb">
+<orgName type="reg">Museo Archeologico Nazionale di Napoli</orgName>
+</org>
+<org xml:id="ed_orb_xyk_rlb">
+<orgName type="reg">Museo civico archeologico di Bologna</orgName>
+</org>
+<org xml:id="ed_wdc_zrt_5lb">
+<orgName type="reg">Museum für Abgüsse Klassischer Bildwerke in München</orgName>
+</org>
+<org xml:id="ed_tbp_ttk_rlb">
+<orgName type="reg">Natio germanorum</orgName>
+</org>
+<org xml:id="G000534">
+<orgName type="reg">National-Zeitung </orgName>
+</org>
+<org xml:id="G000535">
+<orgName type="reg">Neidenbuger Kreisblatt</orgName>
+</org>
+<org xml:id="ed_kgz_vvt_5lb">
+<orgName type="reg">Neue Evangelische Kirchenzeitung</orgName>
+</org>
+<org xml:id="G000536">
+<orgName type="reg">Neue Freie Presse (Wien)</orgName>
+<desc>1864-1939</desc>
+</org>
+<org xml:id="G004659">
+<orgName type="reg">New Yorker Criminal-Zeitung und belletristisches Journal</orgName>
+</org>
+<org xml:id="G000538">
+<orgName type="reg">Nuova antologia di scienze, lettere ed arti</orgName>
+<desc>(1866-1899)</desc>
+</org>
+<org xml:id="G000539">
+<orgName type="reg">Papsttum</orgName>
+</org>
+<org xml:id="G000497">
+<orgName type="reg">Pension Rinderknecht (Zürich)</orgName>
+</org>
+<org xml:id="G004660">
+<orgName type="reg">Philipps-Universität Marburg</orgName>
+</org>
+<org xml:id="G000486">
+<orgName type="reg">Pinacoteca Vaticana</orgName>
+</org>
+<org xml:id="G067529">
+<orgName type="reg">Pinakothek München</orgName>
+</org>
+<org xml:id="G000540">
+<orgName type="reg">Preußische Jahrbücher</orgName>
+</org>
+<org xml:id="G000459">
+<orgName type="reg">Preußisches Außenministerium</orgName>
+</org>
+<org xml:id="G067527">
+<orgName type="reg">Preußisches Handelsministerium</orgName>
+</org>
+<org xml:id="G000541">
+<orgName type="reg">Preußisches Kultusministerium</orgName>
+</org>
+<org xml:id="G000499">
+<orgName type="reg">Privatarchiv der Caetani</orgName>
+</org>
+<org xml:id="G000498">
+<orgName type="reg">Privatarchiv der Colonna</orgName>
+</org>
+<org xml:id="ed_fwr_pmr_rlb">
+<orgName type="reg">Rathaus von Padua</orgName>
+</org>
+<org xml:id="ed_dff_kyv_gmb">
+<orgName type="reg">Revue des Deux Mondes (Paris)</orgName>
+</org>
+<org xml:id="G004661">
+<orgName type="reg">Revue Germanique</orgName>
+</org>
+<org xml:id="G004656">
+<orgName type="reg">Ristorante Stella d'Italia (Firenze)</orgName>
+</org>
+<org xml:id="G000504">
+<orgName type="reg">Ritterorden der hl. Mauritius und Lazarus</orgName>
+</org>
+<org xml:id="G004663">
+<orgName type="reg">Römischer Gemeinderat</orgName>
+</org>
+<org xml:id="G000559">
+<orgName type="reg">Römischer Senat</orgName>
+</org>
+<org xml:id="G000455">
+<orgName type="reg">Rosminianerorden</orgName>
+</org>
+<org xml:id="G067526">
+<orgName type="reg">S. Hirzel Verlag (Leipzig)</orgName>
+</org>
+<org xml:id="G000485">
+<orgName type="reg">Salon für Literatur, Kunst und Gesellschaft in Leipzig</orgName>
+</org>
+<org xml:id="G000488">
+<orgName type="reg">Sammlung Schack (München)</orgName>
+</org>
+<org xml:id="G000549">
+<idno type="uri">http://d-nb.info/gnd/1072983206</idno>
+<orgName type="reg">Sandoz &amp; Fischbacher</orgName>
+</org>
+<org xml:id="G000558">
+<orgName type="reg">Senat des Königreiches Italien</orgName>
+</org>
+<org xml:id="ed_oc5_sl2_rlb">
+<orgName type="reg">Sitzungsberichte der Bayerischen Akademie der Wissenschaften zu München</orgName>
+</org>
+<org xml:id="G000550">
+<orgName type="reg">Societas Jesu </orgName>
+</org>
+<org xml:id="ed_fgt_cj5_5lb">
+<orgName type="reg">Sozialistische Arbeiterpartei Deutschlands</orgName>
+</org>
+<org xml:id="ed_ppw_gnr_rlb">
+<orgName type="reg">Staatsarchiv München</orgName>
+</org>
+<org xml:id="G000505">
+<orgName type="reg">Stadtbibliothek Zürich</orgName>
+</org>
+<org xml:id="ed_ukk_hh3_zkb">
+<orgName type="reg">Stamperia di San Tommaso di Aquino (Bologna)</orgName>
+</org>
+<org xml:id="G004658">
+<orgName type="reg">The Continental Review</orgName>
+</org>
+<org xml:id="G000554">
+<orgName type="reg">The Edinburgh Review, or Critical Journal</orgName>
+</org>
+<org xml:id="G000555">
+<orgName type="reg">Theodor Riedel’s Buchhandlung (München)</orgName>
+</org>
+<org xml:id="G000567">
+<orgName type="reg">The Saturday Review of Politics, Literature, Science and Art</orgName>
+</org>
+<org xml:id="G000471">
+<orgName type="reg">Thomas Constable and Company</orgName>
+</org>
+<org xml:id="G000484">
+<orgName type="reg">Tipografia di Giuseppe Antonelli (Venezia)</orgName>
+</org>
+<org xml:id="G000537">
+<orgName type="reg">Tipografia Zanichelli (Bologna) </orgName>
+<desc>Verlag in Bologna</desc>
+</org>
+<org xml:id="G000568">
+<orgName type="reg">Über Land und Meer. Allgemeine Illustrirte Zeitung </orgName>
+</org>
+<org xml:id="ed_tbs_j5s_plb">
+<orgName type="reg">Ulrico Hoepli Editore</orgName>
+<desc>Verlag in Mailand, Neapel, Pisa</desc>
+</org>
+<org xml:id="ed_fv3_xlm_plb">
+<orgName type="reg">Università degli Studi di Napoli Federico II</orgName>
+</org>
+<org xml:id="ed_arm_hg5_plb">
+<orgName type="reg">Università di Palermo</orgName>
+</org>
+<org xml:id="G000516">
+<orgName type="reg">Università di Pisa</orgName>
+</org>
+<org xml:id="ed_gb4_sb4_5lb">
+<orgName type="reg">Universität Leipzig</orgName>
+</org>
+<org xml:id="G000495">
+<orgName type="reg">Universitätsbibliothek Neapel</orgName>
+</org>
+<org xml:id="G000569">
+<orgName type="reg">Unsere Zeit</orgName>
+</org>
+<org xml:id="ed_onw_cld_rlb">
+<orgName type="reg">Vatikan</orgName>
+</org>
+<org xml:id="G067844">
+<orgName type="reg">Verlagsbuchhandlung Mór Ráth (Pest)</orgName>
+</org>
+<org xml:id="G000512">
+<orgName type="reg">Verlag Wilhelm Bornträger (Königsberg)</orgName>
+</org>
+<org xml:id="G000570">
+<idno type="uri">http://d-nb.info/gnd/814693-7</idno>
+<orgName type="reg">Weidmannsche Buchhandlung (Berlin)</orgName>
+</org>
+<org xml:id="G000571">
+<orgName type="reg">Weserzeitung</orgName>
+</org>
+</listOrg>
+</body>
+    </text>
+</TEI>
